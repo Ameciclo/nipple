@@ -1,0 +1,14 @@
+# Arquivos e diretórios gerados pelo Node.js
+node_modules/
+dist/
+
+# Arquivos de configuração
+*.env
+
+# Arquivos de compilação TypeScript
+*.js
+*.js.map
+
+# Arquivos de configuração do TypeScript
+tsconfig.json
+
